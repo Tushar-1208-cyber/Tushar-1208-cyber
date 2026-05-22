@@ -19,7 +19,7 @@
 ```yaml
 name: Tushar Gupta
 role: Software Engineer
-experience: 3+ Years
+experience: 1+ Years
 specialization:
   - Full Stack Development
   - Product Engineering
@@ -33,7 +33,7 @@ currently_working_on:
   - Advanced DSA & Problem Solving
 
 dsa:
-  solved: 1500+ Problems
+  solved: 50+ Problems
 ```
 
 ---
