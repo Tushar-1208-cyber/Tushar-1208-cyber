@@ -60,7 +60,7 @@ core_cs:
   - Computer Networks
 
 problem_solving:
-  solved: 1500+
+  solved: 50+
   platforms:
     - LeetCode
     - GeeksForGeeks
