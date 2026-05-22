@@ -305,7 +305,7 @@ Engineer products that create impact.
 
 <div align="center">
 
-🏆 1500+ DSA Problems Solved  
+🏆 50+ DSA Problems Solved  
 🚀 Built Full-Stack Scalable Applications  
 ⚡ Strong Focus on Backend Engineering  
 🧠 Passionate About System Design  
