@@ -136,8 +136,8 @@ dsa:
 
 | Platform | Stats |
 |----------|-------|
-| LeetCode | 1500+ Problems Solved |
-| DSA Focus | Graphs, DP, Trees, Backtracking |
+| LeetCode | 50+ Problems Solved |
+| DSA Focus | Arrays, HashMap, Maths |
 | Core Areas | System Design, Backend Engineering |
 | Interests | Scalable Systems & Clean Architecture |
 
