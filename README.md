@@ -60,7 +60,7 @@ core_cs:
   - Computer Networks
 
 problem_solving:
-  solved: 50+
+  solved: 100+
   platforms:
     - LeetCode
     - GeeksForGeeks
@@ -305,7 +305,7 @@ Engineer products that create impact.
 
 <div align="center">
 
-🏆 50+ DSA Problems Solved  
+🏆 100+ DSA Problems Solved  
 🚀 Built Full-Stack Scalable Applications  
 ⚡ Strong Focus on Backend Engineering  
 🧠 Passionate About System Design  
