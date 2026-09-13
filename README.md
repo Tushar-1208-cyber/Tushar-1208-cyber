@@ -278,7 +278,21 @@ AI-powered application focused on intelligent responses and user interaction.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tushar-1208-cyber/Tushar-1208-cyber/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Tushar-1208-cyber/Tushar-1208-cyber/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Tushar-1208-cyber/Tushar-1208-cyber/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Tushar-1208-cyber/Tushar-1208-cyber/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -304,11 +318,10 @@ Engineer products that create impact.
 
 <div align="center">
 
-🏆 100+ DSA Problems Solved  
+🏆 180+ DSA Problems Solved  
 🚀 Built Full-Stack Scalable Applications  
 ⚡ Strong Focus on Backend Engineering  
 🧠 Passionate About System Design  
-💻 Consistent Open Source Learner  
 
 </div>
 
