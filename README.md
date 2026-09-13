@@ -202,7 +202,7 @@ life_philosophy: >
 <td width="50%">
 
 ## 🚀 Astro-AI
-AI-powered astrology & prediction platform.
+AI-powered astrology and prediction platform.
 
 ### Features:
 - AI Integration
@@ -214,14 +214,15 @@ AI-powered astrology & prediction platform.
 
 <td width="50%">
 
-## 🛒 E-Commerce Platform
-Instagram-inspired scalable commerce app.
+## 🧠 AI Customer Sentiment Analysis
+AI-powered customer sentiment analysis and business insight platform using NLP.
 
 ### Features:
-- Authentication
-- Product Management
-- Payment Integration
-- Backend APIs
+- Natural Language Processing
+- Sentiment Analysis
+- Business Insights
+- Data Analysis
+- AI/ML Integration
 
 </td>
 </tr>
@@ -229,33 +230,37 @@ Instagram-inspired scalable commerce app.
 <tr>
 <td width="50%">
 
-## 🤖 Investment Advisor Bot
-AI chatbot with growth visualization.
+## 🏥 Prescripto
+Doctor appointment and prescription management platform.
 
 ### Features:
-- Conversational AI
-- Charts & Analytics
-- State Management
-- API Integration
+- Doctor & Patient Management
+- Appointment Booking
+- Authentication
+- Prescription Management
+- Admin Panel
 
 </td>
 
 <td width="50%">
 
-## 🎥 Virtual Assistant
-Smart assistant with MOM generation.
+## 🤖 AI Project
+AI-powered application focused on intelligent responses and user interaction.
 
 ### Features:
-- Voice + Text Input
-- AI Responses
-- Login System
-- Productivity Tools
+- AI Integration
+- API Integration
+- Interactive UI
+- Dynamic Responses
+- User Interaction
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ---
 
