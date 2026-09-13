@@ -135,10 +135,9 @@ life_philosophy: >
 
 | Architecture | Backend | Databases | DevOps |
 |---|---|---|---|
-| Microservices | REST APIs | MongoDB | Docker |
-| Scalable Systems | JWT Auth | MySQL | CI/CD |
-| Clean Architecture | Rate Limiting | Firebase | GitHub Actions |
-| API Optimization | Secure APIs | Redis | Deployment |
+| REST APIs | Node.js | MongoDB | Docker |
+| JWT Auth | Express.js | MySQL |  |
+|  |  | Firebase |  |
 
 </div>
 
