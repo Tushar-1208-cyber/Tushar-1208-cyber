@@ -147,9 +147,9 @@ life_philosophy: >
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tushar-1208-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=15" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tushar-1208-cyber&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-1208-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=15" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tushar-1208-cyber&theme=tokyonight" />
 
 </div>
 
