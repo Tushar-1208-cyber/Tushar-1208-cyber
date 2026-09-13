@@ -34,17 +34,13 @@ role: Full-Stack Engineer
 
 specialization:
   - Full Stack Development
-  - Product Engineering
-  - Backend Engineering
-  - Scalable Systems
-  - Clean Architecture
+  - FrontEnd Engineering
+  - JavaScript
 
 tech_stack:
   frontend:
     - React.js
-    - Next.js
     - Tailwind CSS
-    - Redux
 
   backend:
     - Node.js
@@ -60,22 +56,21 @@ core_cs:
   - Computer Networks
 
 problem_solving:
-  solved: 100+
+  solved: 180+
   platforms:
     - LeetCode
-    - GeeksForGeeks
-    - Coding Ninjas
 
 currently_learning:
-  - Advanced System Design
+  - Basic System Design
   - DevOps & Docker
   - AI Integrations
   - Backend Optimization
 
 life_philosophy: >
-  Build scalable software,
+  Build useful software,
   solve real-world problems,
-  and create impactful digital products.
+  create impactful digital products,
+  and keep learning
 ```
 
 <br clear="both"/>
