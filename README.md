@@ -302,13 +302,11 @@ AI-powered application focused on intelligent responses and user interaction.
 
 <div align="center">
 
-```txt
-Code with purpose.
-Design with scalability.
-Build with clean architecture.
-Optimize for performance.
+Code with purpose.  
+Design with scalability.  
+Build with clean architecture.  
+Optimize for performance.  
 Engineer products that create impact.
-```
 
 </div>
 
