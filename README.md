@@ -114,16 +114,16 @@ life_philosophy: >
 <div align="center">
 
 ### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ### 🧠 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 
 </div>
 
